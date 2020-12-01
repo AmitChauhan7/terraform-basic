@@ -21,3 +21,4 @@ output "STRING" {
 output "BOOL" {
   value = var.BOOL
 }
+
