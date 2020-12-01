@@ -1,0 +1,3 @@
+output "DATEnTIME" {
+  value = timestamp ()
+}
